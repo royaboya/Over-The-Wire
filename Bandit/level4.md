@@ -3,7 +3,6 @@ Given Prompt: The password for the next level is stored in the only human-readab
 
 Setup
 `ssh bandit4@bandit.labs.overthewire.org -p 2220`
-pass: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 1. `cd inhere` 
 2. `ls` to find that there are multiple files

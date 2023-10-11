@@ -7,6 +7,7 @@ not executable
 
 Setup
 `ssh bandit5@bandit.labs.overthewire.org -p 2220`
+
 `cd` into `inhere` and `ls` to get:
 ```
 maybehere00  maybehere03  maybehere06  maybehere09  maybehere12  maybehere15  maybehere18

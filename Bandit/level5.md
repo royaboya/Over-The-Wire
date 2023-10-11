@@ -7,8 +7,6 @@ not executable
 
 Setup
 `ssh bandit5@bandit.labs.overthewire.org -p 2220`
-pass: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
-
 `cd` into `inhere` and `ls` to get:
 ```
 maybehere00  maybehere03  maybehere06  maybehere09  maybehere12  maybehere15  maybehere18
@@ -22,5 +20,3 @@ run `find -readable -size 1033c -not -executable`
 
 returns `./maybehere07/.file2`
 `cat ./maybehere07/.file2`to get password
-
-password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU

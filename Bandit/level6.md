@@ -7,7 +7,6 @@ owned by group bandit6
 
 Setup
 `ssh bandit6@bandit.labs.overthewire.org -p 2220`
-pass: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 `cd` to the root directory 
 run `find ./ -user bandit7 -group bandit6 -size 33c`
@@ -19,5 +18,3 @@ Going through the displayed files, we can find a file without permission denied:
 `./var/lib/dpkg/info/bandit7.password`
 
 run `cat ./var/lib/dpkg/info/bandit7.password`
-
-password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S

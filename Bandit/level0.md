@@ -14,5 +14,3 @@ Given Prompt: The password for the next level is stored in a file called readme 
 
 run <code>ls</code> to find <code>readme</code> file
 then <code>cat readme</code> to get password
-
-password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL

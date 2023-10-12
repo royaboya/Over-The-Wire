@@ -2,7 +2,7 @@
 Given Prompt: The password for the next level is stored in a file called - located in the home directory
 
 Setup
-<code>ssh bandit1@bandit.labs.overthewire.org -p 2220</code>
+`ssh bandit1@bandit.labs.overthewire.org -p 2220`
 
-run <code>ls</code> to see a file named '-'
-run <code>cat ./-</code> to get contents of file 
+run `ls` to see a file named '-'
+run `cat ./-` to get contents of file 
